@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Shuchang Ye"
 title_separator          : "-"
 name                     : &name "Shuchang Ye"
-description              : &description "PhD student at The University of Sydney"
+description              : &description "Multimodal Learning Researcher at The University of Sydney"
 url                      : https://shuchangye-bib.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ShuchangYe-bib/ShuchangYe-bib.github.io"
@@ -21,34 +21,34 @@ repository               : "ShuchangYe-bib/ShuchangYe-bib.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  avatar           : "head.jpg"
+  name             : "Shuchang Ye"
+  pronouns         : # example: "he/him"  
+  bio              : "Multimodal Learning Researcher at The University of Sydney"
+  location         : "Sydney, New South Wales, Australia"
+  employer         : "The University of Sydney"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "shuchang.ye@sydney.edu.au" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=AikhZMkAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0006-1935-1953"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/ShuchangYe-bib"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
