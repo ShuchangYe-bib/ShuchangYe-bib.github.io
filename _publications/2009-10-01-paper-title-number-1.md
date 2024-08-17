@@ -5,7 +5,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/SGSeg
 abstract: "Existing language-guided methods require clinical reports alongside the images, and hence, they are not applicable for use in image segmentation in a decision support context, but rather limited to retrospective image analysis after clinical reporting has been completed. In this study, we propose a self-guided segmentation framework (SGSeg) that leverages language guidance for training (multi-modal) while enabling text-free inference (uni-modal), which is the first that enables text-free inference in language-guided segmentation."
-date: 2009-10-01
+date: 2024-10-6
 conference: "the 27th international conference on medical image computing and computer assisted intervention (MICCAI 2024)"
 paper_link: ''
 website_link: 'https://shuchangye-bib.github.io/websites/SGSeg/sgseg.html'

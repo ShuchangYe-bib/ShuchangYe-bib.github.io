@@ -14,26 +14,78 @@
 
 <div class="{{ include.type | default: "list" }}__item">
   <article class="publication-item" style="border-left: 1px solid #f4f5f7; position: relative; padding: 32px 24px 8px 40px; margin-left: 35px;">
-    <i class="publication-icon fas fa-book" style="position: absolute; left: -1.3rem; width: 42px; text-align: center; font-size: 22px; background-color: #fff;"></i>
+    <!-- External CSS for Bootstrap and Font Awesome -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    
+    <style>
+      .publication-item {
+        border-left: 1px solid #f4f5f7;
+        position: relative;
+        padding: 32px 24px 8px 40px;
+        margin-left: 35px;
+      }
+      .publication-icon {
+        position: absolute;
+        left: -1.3rem;
+        width: 42px;
+        text-align: center;
+        font-size: 22px;
+        background-color: #fff;
+      }
+      .publication-date {
+        position: absolute;
+        left: -10rem;
+        width: 7.5rem;
+        text-align: right;
+      }
+      .card {
+        margin-bottom: 20px;
+      }
+      .card-title {
+        color: #333;
+      }
+      .card-link {
+        margin-right: 15px;
+      }
+      .card-link i {
+        margin-right: 5px;
+      }
+      @media (min-width: 768px) {
+        .publication-item {
+          margin-left: 110px;
+        }
+        .publication-date {
+          left: -10rem;
+        }
+      }
+    </style>
+    
+    <i class="publication-icon fas fa-book"></i>
     <h2> Publications </h2>
-    <h3 class="publication-date" style="position: absolute; left: -10rem; width: 7.5rem; text-align: right;">{{ post.date | date: "%Y" }}</h3>
-    <div class="card" style="margin-bottom: 20px;">
+    <h3 class="publication-date">{{ post.date | date: "%Y" }}</h3>
+    <div class="card">
       <div class="card-body">
-        <h5 class="card-title" style="color: #333;">{{ post.title }}</h5>
+        <h5 class="card-title">{{ post.title }}</h5>
         <h6 class="card-subtitle mb-2 text-muted"> {{ post.authors }} </h6>
         <p class="card-text"> {{ post.abstract }} </p>
         <p class="card-text"><strong> Conference: </strong> {{ post.conference }} </p>
         {% if post.paper_link %}
-          <a href="{{ post.paper_link }}" class="card-link" style="margin-right: 15px;"><i class="fas fa-link" style="margin-right: 5px;"></i> Paper Link </a>
+          <a href="{{ post.paper_link }}" class="card-link"><i class="fas fa-link"></i> Paper Link </a>
         {% endif %}
         {% if post.website_link %}
-          <a href="{{ post.website_link }}" class="card-link" style="margin-right: 15px;"><i class="fas fa-globe" style="margin-right: 5px;"></i> Website </a>
+          <a href="{{ post.website_link }}" class="card-link"><i class="fas fa-globe"></i> Website </a>
         {% endif %}
         {% if post.github_link %}
-          <a href="{{ post.github_link }}" class="card-link" style="margin-right: 15px;"><i class="fab fa-github" style="margin-right: 5px;"></i> GitHub </a>
+          <a href="{{ post.github_link }}" class="card-link"><i class="fab fa-github"></i> GitHub </a>
         {% endif %}
       </div>
     </div>
+    
+    <!-- Bootstrap JS and Popper.js for interactivity -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
   </article>
 
   <style>
