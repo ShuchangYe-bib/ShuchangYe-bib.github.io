@@ -68,7 +68,9 @@
         <h5 class="card-title">{{ post.title }}</h5>
         <h6 class="card-subtitle mb-2 text-muted"> {{ post.authors }} </h6>
         <p class="card-text"> {{ post.abstract }} </p>
+        {% if post.conference %}
         <p class="card-text"><strong> Conference: </strong> {{ post.conference }} </p>
+        {% endif %}
         {% if post.paper_link %}
           <a href="{{ post.paper_link }}" class="card-link"><i class="fas fa-link"></i> Paper Link </a>
         {% endif %}
