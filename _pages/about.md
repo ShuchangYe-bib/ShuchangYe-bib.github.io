@@ -7,5 +7,5 @@ redirect_from:
   - /about.html
 ---
 
-See [publications] (https://shuchangye-bib.github.io/publications/)
+See [publications](https://shuchangye-bib.github.io/publications/)
 
