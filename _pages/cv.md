@@ -11,35 +11,34 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Doctor of Philosophy in Multimodal Learning, The University of Sydney, 2024-now
+
+* Bachelor of Advanced Computing (Honours), The University of Sydney, 2020-2024
+  * Majors: Computer Science and Data Science
+  * Awards: Dalyell Scholar, Dean List
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2022: Research Assistant
+  * The University of Sydney
+  * Facial Recognition
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Research
+  * Multimodal Learning
+  * Large Language Models
+	* Transformers, GPT, Mis
+  * Representation Learning
+  * Bias and Fairness
+  * Medical Image Analysis
+* Programming
+  * Deep Learning:
+    * Pytorch, Tensorflow, Huggingface
+  * Programming Languages:
+    * Python, Java, C, C++, C#
+  * Web Development:
+	* React, Node.js, Django, Flask, Electron
 
 Publications
 ======
