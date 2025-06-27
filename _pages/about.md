@@ -71,6 +71,7 @@ via Prototype-driven Semantic Approximation](https://iccv.thecvf.com)
 </div>
 
 # 🎖 Honors and Awards
+- *2024.03* Australia Government RTP Scholarship.
 - *2023.09* Dean's List excellence in academic performance
 - *2023.07* the Ian Jackson Memorial Prize for Computer Science
 - *2021.01* Dalyell Scholar
