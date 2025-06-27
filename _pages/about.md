@@ -17,11 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD candidate in Engineering at the University of Sydney, specializing in multimodal learning. I hold a Bachelor of Advanced Computing (Honours) in Computer Science and Computational Data Science from the University of Sydney (GPA 3.91/4.00, First-Class Honours, top 1%) and am supported by an Australian Government RTP Scholarship. During my undergraduate studies, I received the Ian Jackson Memorial Prize, was named a Dalyell Scholar, and consistently appeared on the Dean’s List.
+I am a Ph.D. candidate in Engineering at the University of Sydney, specializing in multimodal learning. I hold a Bachelor of Advanced Computing (Honours) in Computer Science and Computational Data Science from the University of Sydney (GPA 3.91/4.00, First-Class Honours, top 1%) and am supported by an Australian Government RTP Scholarship. During my undergraduate studies, I received the Ian Jackson Memorial Prize, was named a Dalyell Scholar, and consistently appeared on the Dean’s List.
 
 My research on multimodal learning mainly focuses on:
+
 (1) Multimodal collaborative decision-making (e.g. PET-CT with eletronic health record);
+
 (2) Cross-modality assisted learning (e.g., language-guided vision tasks);
+
 (3) Multimodal generative methods for diagnostic support (e.g., medical visual question answering and radiology report generation).
 
 # 🔥 News
@@ -47,22 +50,22 @@ via Prototype-driven Semantic Approximation](https://iccv.thecvf.com)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2024</div><img src='images/sgseg.png' alt="sgseg" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Enabling Text-Free Inference in Language-Guided Segmentation of Chest X-Rays via Self-guidance](https://link.springer.com/chapter/10.1007/978-3-031-72111-3_23)
-
-**Shuchang Ye**, Mingyuan Meng, Mingjian Li, Dagan Feng, Jinman Kim
-
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/medcfvqa.png' alt="sgseg" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Causal Approach to Mitigate Modality Preference Bias in Medical Visual Question Answering](https://dl.acm.org/doi/abs/10.1145/3689096.3689459)
 
 **Shuchang Ye**, Usman Naseem, Mingyuan Meng, Dagan Feng, Jinman Kim
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2024</div><img src='images/sgseg.png' alt="sgseg" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Enabling Text-Free Inference in Language-Guided Segmentation of Chest X-Rays via Self-guidance](https://link.springer.com/chapter/10.1007/978-3-031-72111-3_23)
+
+**Shuchang Ye**, Mingyuan Meng, Mingjian Li, Dagan Feng, Jinman Kim
 
 </div>
 </div>
