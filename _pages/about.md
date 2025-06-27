@@ -1,65 +1,58 @@
 ---
 permalink: /
-title: "Shuchang Ye"
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-## Education
+<span class='anchor' id='about-me'></span>
 
-**The University of Sydney** – Sydney, Australia  
-*Doctor of Philosophy (Engineering) in Multimodal Learning*  
-*Mar 2024 - Present*  
-- Honours and Awards: Full Government RTP Scholarship.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
 
-**The University of Sydney** – Sydney, Australia  
-*Bachelor of Advanced Computing (Honours) in Computer Science and Computational Data Science*  
-*Mar 2020 - Jan 2024*  
-- GPA: 3.91/4.00 (top 1%), Honour First Class  
-- Honours and Awards: Ian Jackson Memorial Prize for Computer Science, Dalyell Scholar, Dean List
+My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
----
 
-## Skills
+# 🔥 News
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-- **Programming Languages**: Python, Java, C, C#, C++  
-- **Deep Learning Frameworks**: PyTorch, TensorFlow, Huggingface, JAX  
-- **Fundamental Deep Learning**: Representation Learning, Self-supervised Learning, Weakly-supervised Learning, Knowledge Distillation  
-- **Multimodal Learning**: Hallucination, Bias and Fairness, Catastrophic Forgetting, Alignment, Pre-training, Fine-tuning, Adaptation  
-- **Computer Vision and Pattern Recognition**: Object Detection, Semantic Segmentation, Image Classification, Image Generation, Visual Question Answering, Image Captioning, Masked Image Modeling, Face Recognition  
-- **Natural Language Processing**: Masked Language Modeling, Text Classification, Text Generation, Question Answering, Named Entity Recognition  
-- **Web Development**: HTML, CSS, JavaScript, Django, Flask, SQL, Node.js  
-- **Data Science**: R, RStudio, Jupyter Notebook, MATLAB
+# 📝 Publications 
 
----
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-## Patents and Publications  <span style="float:right; color:darkblue; font-size:small;">C=Conference, J=Journal, P=Patent, S=In Submission, T=Thesis</span>
+[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-1. **[S.1]** Shuchang Ye, Mingyuan Meng, Mingjian Li, Dagan Feng, Usman Naseem, Jinman Kim. [Dynamic Traceback Learning for Medical Report Generation](https://arxiv.org/abs/2401.13267). Manuscript submitted for review in *IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2025)*. [![arXiv](https://img.shields.io/badge/arXiv-abs--2401.13267-B31B1B)](https://arxiv.org/abs/2401.13267)
+**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
-2. **[C.2]** Shuchang Ye, Usman Naseem, Mingyuan Meng, Dagan Feng, Jinman Kim. [A Causal Approach to Mitigate Modality Preference Bias in Medical Visual Question Answering](https://doi.org/10.1145/3689096.3689459). In *The 32nd ACM International Conference on Multimedia (ACM MM 2024) First International Workshop on Vision-Language Models for Biomedical Applications: VLM4Bio 2024*, ACM ISBN 979-8-4007-1207-4/24/10, DOI: 10.1145/3689096.3689459.
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
 
-3. **[C.1]** Shuchang Ye, Mingyuan Meng, Mingjian Li, Dagan Feng, Jinman Kim. [Enabling Text-free Inference in Language-guided Segmentation of Chest X-rays via Self-guidance](https://arxiv.org/abs/2409.04758). In *The 27th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2024)*. [![arXiv](https://img.shields.io/badge/arXiv-abs--2409.04758-B31B1B)](https://arxiv.org/abs/2409.04758) [![Website](https://img.shields.io/badge/Website-SGSeg-blue)](https://shuchangye-bib.github.io/websites/SGSeg/sgseg.html) [![GitHub](https://img.shields.io/badge/GitHub-SGSeg-blue)](https://github.com/ShuchangYe-bib/SGSeg)
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
----
+# 🎖 Honors and Awards
+- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-## Experience
+# 📖 Educations
+- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-**The University of Sydney** – Sydney, Australia  
-*Research Assistant*  
-*Jul 2022 - Dec 2022*  
-- Research in Facial Recognition, available at [PDF](https://plf.tennessee.edu/wp-content/uploads/sites/229/2024/01/Identification-of-cattle-facial-features-via-deep-learning.pdf)  
-- Keywords: Computer Vision, Object Detection, Convolutional neural network
+# 💬 Invited Talks
+- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
----
-
-## Projects
-
-**Brain Wave Intelligent Reader**  
-*Tools*: Python, R, HTML, SQL, CSS, JavaScript, Spiker Box  
-*Feb 2022 - Jun 2022*  
-- Project Background: Utilizing a Spikerbox device, capable of recording brainwave activity, we classify various eye movements such as leftward and rightward shifts, as well as blinks. The objective of this project is to develop an intelligent e-book that autonomously turns pages and adjusts line spacing in response to the reader's behavior.  
-- Key components: 1) Deep learning-based streaming brain wave long sequence predictor; 2) Development of intelligent book reader.
+# 💻 Internships
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
