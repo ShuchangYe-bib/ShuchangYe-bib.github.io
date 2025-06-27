@@ -36,13 +36,33 @@ My research on multimodal learning mainly focuses on:
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/prolearn.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/prolearn.png' alt="prolearn" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Alleviating Textual Reliance in Medical Language-guided Segmentation
 via Prototype-driven Semantic Approximation](https://iccv.thecvf.com)
 
 **Shuchang Ye**, Usman Naseem, Mingyuan Meng, Jinman Kim
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2024</div><img src='images/sgseg.png' alt="sgseg" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Enabling Text-Free Inference in Language-Guided Segmentation of Chest X-Rays via Self-guidance](https://link.springer.com/chapter/10.1007/978-3-031-72111-3_23)
+
+**Shuchang Ye**, Mingyuan Meng, Mingjian Li, Dagan Feng, Jinman Kim
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/medcfvqa.png' alt="sgseg" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Causal Approach to Mitigate Modality Preference Bias in Medical Visual Question Answering](https://dl.acm.org/doi/abs/10.1145/3689096.3689459)
+
+**Shuchang Ye**, Usman Naseem, Mingyuan Meng, Dagan Feng, Jinman Kim
 
 </div>
 </div>
@@ -61,4 +81,7 @@ via Prototype-driven Semantic Approximation](https://iccv.thecvf.com)
 
 # 💻 Work Experience
 - *2022.07 - 2022.12*, Research Assistant on Facial Recognition, available at [PDF](https://plf.tennessee.edu/wp-content/uploads/sites/229/2024/01/Identification-of-cattle-facial-features-via-deep-learning.pdf), The University of Sydney    
-	- Research in Facial Recognition, available at [PDF](https://plf.tennessee.edu/wp-content/uploads/sites/229/2024/01/Identification-of-cattle-facial-features-via-deep-learning.pdf)  
+
+
+
+
