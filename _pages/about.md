@@ -44,16 +44,13 @@ via Prototype-driven Semantic Approximation](https://iccv.thecvf.com)
 
 **Shuchang Ye**, Usman Naseem, Mingyuan Meng, Jinman Kim
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- **Brain Wave Intelligent Reader**   
-*Feb 2022 - Jun 2022*  
-	- Project Background: Utilizing a Spikerbox device, capable of recording brainwave activity, we classify various eye movements such as leftward and rightward shifts, as well as blinks. The objective of this project is to develop an intelligent e-book that autonomously turns pages and adjusts line spacing in response to the reader's behavior.  
-	- Key components: 1) Deep learning-based streaming brain wave long sequence predictor; 2) Development of an intelligent book reader.
+</div>
 </div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09* Dean's List excellence in academic performance
+- *2023.07* the Ian Jackson Memorial Prize for Computer Science
+- *2021.01* Dalyell Scholar
 
 # 📖 Educations
 - *2024.03 - Present*, Doctor of Philosophy (Engineering), The University of Sydney
