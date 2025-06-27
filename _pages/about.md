@@ -21,11 +21,11 @@ I am a Ph.D. candidate in Engineering at the University of Sydney, specializing 
 
 My research on multimodal learning mainly focuses on:
 
-(1) Multimodal collaborative decision-making (e.g. PET-CT with eletronic health record);
+(1) Multimodal collaborative decision-making (e.g., PET-CT with electronic health record);
 
 (2) Cross-modality assisted learning (e.g., language-guided vision tasks);
 
-(3) Multimodal generative methods for diagnostic support (e.g., medical visual question answering and radiology report generation).
+(3) Multimodal generative methods for diagnostic support (e.g., medical visual question answering, radiology report generation).
 
 # 🔥 News
 - *2025.03*: A paper on textual reliance is accepted to **ICCV 2025**
