@@ -17,42 +17,51 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am a PhD candidate in Engineering at the University of Sydney, specializing in multimodal learning. I hold a Bachelor of Advanced Computing (Honours) in Computer Science and Computational Data Science from the University of Sydney (GPA 3.91/4.00, First-Class Honours, top 1%) and am supported by an Australian Government RTP Scholarship. During my undergraduate studies, I received the Ian Jackson Memorial Prize, was named a Dalyell Scholar, and consistently appeared on the Dean’s List.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+My research on multimodal learning mainly focuses on:
+(1) Multimodal collaborative decision-making (e.g. PET-CT with eletronic health record);
+(2) Cross-modality assisted learning (e.g., language-guided vision tasks);
+(3) Multimodal generative methods for diagnostic support (e.g., medical visual question answering and radiology report generation).
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.03*: A paper on textual reliance is accepted to **ICCV 2025**
+- *2024.10*: A paper on modality preference bias is accepted to the workshop in **ACM MM 2024**
+- *2024.05*: A paper on medical language-guided segmentation is accepted to **MICCAI 2024**
+- *2024.03*: I commenced my PhD in Engineering at the University of Sydney, focusing on multimodal learning and funded by an Australian Government RTP Scholarship.
+- *2023.12*: I graduated from the University of Sydney with a Bachelor of Advanced Computing (First Class Honours; WAM 95+)
+- *2021.01*: I was invited to be a Dalyell Scholar. 
+- *2022.09*: I joined The University of Sydney as a research assistant.
+- *2022.02*: I participate in ICPC on behalf of The University of Sydney
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/prolearn.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Alleviating Textual Reliance in Medical Language-guided Segmentation
+via Prototype-driven Semantic Approximation](https://iccv.thecvf.com)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Shuchang Ye**, Usman Naseem, Mingyuan Meng, Jinman Kim
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **Brain Wave Intelligent Reader**   
+*Feb 2022 - Jun 2022*  
+	- Project Background: Utilizing a Spikerbox device, capable of recording brainwave activity, we classify various eye movements such as leftward and rightward shifts, as well as blinks. The objective of this project is to develop an intelligent e-book that autonomously turns pages and adjusts line spacing in response to the reader's behavior.  
+	- Key components: 1) Deep learning-based streaming brain wave long sequence predictor; 2) Development of an intelligent book reader.
 </div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.03 - Present*, Doctor of Philosophy (Engineering), The University of Sydney
+  - Thesis: Multimodal Learning 
+- *2020.03 – 2024.03*: Bachelor of Advanced Computing (Honours), The University of Sydney
+  - Major: Computer Science, Computational Data Science
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Work Experience
+- *2022.07 - 2022.12*, Research Assistant on Facial Recognition, available at [PDF](https://plf.tennessee.edu/wp-content/uploads/sites/229/2024/01/Identification-of-cattle-facial-features-via-deep-learning.pdf), The University of Sydney    
+	- Research in Facial Recognition, available at [PDF](https://plf.tennessee.edu/wp-content/uploads/sites/229/2024/01/Identification-of-cattle-facial-features-via-deep-learning.pdf)  
