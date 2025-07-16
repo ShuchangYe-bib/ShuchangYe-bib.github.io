@@ -43,9 +43,11 @@ My research on multimodal learning mainly focuses on:
 <div class='paper-box-text' markdown="1">
 
 [Alleviating Textual Reliance in Medical Language-guided Segmentation
-via Prototype-driven Semantic Approximation](https://iccv.thecvf.com)
+via Prototype-driven Semantic Approximation](https://arxiv.org/abs/2507.11055)
 
 **Shuchang Ye**, Usman Naseem, Mingyuan Meng, Jinman Kim
+
+[**Website**](https://shuchangye-bib.github.io/websites/ProLearn/prolearn.html)
 
 </div>
 </div>
@@ -66,6 +68,8 @@ via Prototype-driven Semantic Approximation](https://iccv.thecvf.com)
 [Enabling Text-Free Inference in Language-Guided Segmentation of Chest X-Rays via Self-guidance](https://link.springer.com/chapter/10.1007/978-3-031-72111-3_23)
 
 **Shuchang Ye**, Mingyuan Meng, Mingjian Li, Dagan Feng, Jinman Kim
+
+[**Website**](https://shuchangye-bib.github.io/websites/SGSeg/sgseg.html)
 
 </div>
 </div>
