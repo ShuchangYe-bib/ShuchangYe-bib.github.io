@@ -3,8 +3,8 @@
 <head>
   <meta charset="utf-8">
   <meta name="description"
-        content="Enabling Text-free Inference in Language-guided Segmentation of Chest X-rays via Self-guidance">
-  <meta name="keywords" content="Language-guided Segmentation, Multi-modal Learning">
+        content="Alleviating Textual Reliance in Medical Language-guided Segmentation via Prototype-driven Semantic Approximation">
+  <meta name="keywords" content="Language-guided Segmentation, Multi-modal Learning, Prototype">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title> ProLearn </title>
 
@@ -273,7 +273,7 @@
         <h2 class="title is-3">Performance degradation in limited text availability scenarios</h2>
         <div class="content has-text-justified">
           <p>
-            To emulate real-world conditions where image-report pairing is incomplete, we simulate decreasing access to paired data ($50%$, $25%$, $10%$, $5%$, and $1%$) and benchmark ProLearn against state-of-the-art language-guided models. Unlike existing methods that suffer significant degradation as paired data drops, ProLearn consistently achieves superior performance. For example, on MosMedData+ with only $1%$ text, ProLearn achieves a Dice score of $0.7218$, surpassing SGSeg ($0.3452$) and LViT ($0.1677$). This highlights its strong generalization under sparse supervision.
+            To emulate real-world conditions where image-report pairing is incomplete, we simulate decreasing access to paired data (50%, 25%, 10%, 5%, and 1%) and benchmark ProLearn against state-of-the-art language-guided models. Unlike existing methods that suffer significant degradation as paired data drops, ProLearn consistently achieves superior performance. For example, on MosMedData+ with only $1%$ text, ProLearn achieves a Dice score of 0.7218, surpassing SGSeg (0.3452) and LViT (0.1677). This highlights its strong generalization under sparse supervision.
           </p>
         </div>
         <div class="publication-image">
