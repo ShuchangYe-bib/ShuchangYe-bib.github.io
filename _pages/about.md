@@ -28,6 +28,7 @@ My research on multimodal learning mainly focuses on:
 (3) Multimodal generative methods for diagnostic support (e.g., medical visual question answering, radiology report generation).
 
 # 🔥 News
+- *2025.10*: A paper on medical report generation is accepted to **TMM**
 - *2025.03*: A paper on textual reliance is accepted to **ICCV 2025**
 - *2024.10*: A paper on modality preference bias is accepted to the workshop in **ACM MM 2024**
 - *2024.05*: A paper on medical language-guided segmentation is accepted to **MICCAI 2024**
@@ -38,6 +39,16 @@ My research on multimodal learning mainly focuses on:
 - *2022.02*: I participate in ICPC on behalf of The University of Sydney
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM</div><img src='images/dtrace.png' alt="dtrace" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Dynamic Traceback Learning for Medical Report Generation](https://arxiv.org/abs/2401.13267)
+
+**Shuchang Ye**, Mingyuan Meng, Mingjian Li, Dagan Feng, Usman Naseem, Jinman Kim
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/prolearn.png' alt="prolearn" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
