@@ -47,6 +47,8 @@ My research on multimodal learning mainly focuses on:
 
 **Shuchang Ye**, Mingyuan Meng, Mingjian Li, Dagan Feng, Usman Naseem, Jinman Kim
 
+[**Website**](https://shuchangye-bib.github.io/websites/DTrace/dtrace.html)
+
 </div>
 </div>
 
@@ -88,7 +90,7 @@ via Prototype-driven Semantic Approximation](https://arxiv.org/abs/2507.11055)
 # 🎖 Honors and Awards
 - *2024.03* Australia Government RTP Scholarship.
 - *2023.09* Dean's List excellence in academic performance
-- *2023.07* the Ian Jackson Memorial Prize for Computer Science
+- *2023.07* The Ian Jackson Memorial Prize for Computer Science
 - *2021.01* Dalyell Scholar
 
 # 📖 Educations
