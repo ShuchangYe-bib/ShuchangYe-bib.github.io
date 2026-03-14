@@ -101,8 +101,12 @@ via Prototype-driven Semantic Approximation](https://arxiv.org/abs/2507.11055)
 
 
 # 💻 Work Experience
-- *2022.07 - 2022.12*, Research Assistant on Facial Recognition, available at [PDF](https://plf.tennessee.edu/wp-content/uploads/sites/229/2024/01/Identification-of-cattle-facial-features-via-deep-learning.pdf), The University of Sydney    
+- *2026.01 - Present*, Machine Learning Engineer, [TikTok (ByteDance)](https://www.tiktok.com/), Sydney, Australia
+  - 0->1 development of TikTok's first Audio-Visual-Language foundation model (AVLM) for video and live moderation: data pipeline, pre-training, post-training, and downstream supervised fine-tuning and alignment.
+  - Deployed to production moderation systems, significantly reducing Community Guidelines Violation Rate (CGVR) and Creator Overkill Rate (COR) compared to existing ASR+VLM approach.
+- *2022.07 - 2022.12*, Research Assistant, [The University of Sydney](https://www.sydney.edu.au), Sydney, Australia
+  - Built the first facial recognition system for animals, demonstrating the potential to replace traditional and widely used tagging methods. [PDF](https://plf.tennessee.edu/wp-content/uploads/sites/229/2024/01/Identification-of-cattle-facial-features-via-deep-learning.pdf)
+  - Key areas: computer vision, object detection, convolutional neural networks, and facial recognition.
 
-
-
-
+# 📜 Reviewer Certificates
+- *2025*, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), [Certificate]({{ '/certificates/TPAMI%20reviewer%20certificate%202025.pdf' | relative_url }})
