@@ -17,20 +17,25 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. candidate in Engineering at the University of Sydney, specializing in multimodal learning. I hold a Bachelor of Advanced Computing (Honours) in Computer Science and Computational Data Science from the University of Sydney (GPA 3.91/4.00, First-Class Honours, top 1%) and am supported by an Australian Government RTP Scholarship. During my undergraduate studies, I received the Ian Jackson Memorial Prize, was named a Dalyell Scholar, and consistently appeared on the Dean’s List.
+I am a Ph.D. candidate in Engineering at the University of Sydney, specializing in multimodal learning. I hold a Bachelor of Advanced Computing (Honours) in Computer Science and Computational Data Science from the University of Sydney (GPA 3.91/4.00, First-Class Honours, top 1%) and am supported by an Australian Government RTP Scholarship. During my undergraduate studies, I received the Ian Jackson Memorial Prize, was named a Dalyell Scholar, and consistently appeared on the Dean's List.
 
-My research on multimodal learning mainly focuses on:
+I worked as a machine learning engineer for TikTok, where I developed the first audio-visual-language model for general content understanding and downstream content moderation. I now joined joined The University of Sydney as an Associate Lecturer for COMP5328: Advanced Machine Learning. My research on multimodal learning mainly focuses on:
 
-(1) Multimodal collaborative decision-making (e.g., PET-CT with electronic health record);
+(1) Multimodal foundation models for general understanding;
 
-(2) Cross-modality assisted learning (e.g., language-guided vision tasks);
+(2) Content creation;
 
-(3) Multimodal generative methods for diagnostic support (e.g., medical visual question answering, radiology report generation).
+(3) Evidence-based Reasoning.
 
 # 🔥 News
+- *2026.09*: A co-authored paper on medical vision-language model is accepted to **NeurIPS 2026**
+- *2026.09*: A paper on audio-visual-language foundation model is accepted to **NeurIPS 2026**
+- *2026.07*: I joined *The University of Sydney* as an **Associate Lecturer** for Unit *COMP5328: Advanced Machine Learning*.
+- *2026.05*: A co-authored paper on multimodal prognosis prediction is accepted to **MICCAI 2026**
+- *2026.01*: I joined *TikTok* as a **machine learning engineer** to develop the first audio-visual-language model for general content understanding and downstream content moderation
 - *2025.10*: A paper on medical report generation is accepted to **TMM**
-- *2025.03*: A paper on textual reliance is accepted to **ICCV 2025**
-- *2024.10*: A paper on modality preference bias is accepted to the workshop in **ACM MM 2024**
+- *2025.03*: A paper on textual reliance in language-guided segmentation is accepted to **ICCV 2025**
+- *2024.10*: A paper on modality preference bias in medical VQA is accepted to the workshop in **ACM MM 2024**
 - *2024.05*: A paper on medical language-guided segmentation is accepted to **MICCAI 2024**
 - *2024.03*: I commenced my PhD in Engineering at the University of Sydney, focusing on multimodal learning and funded by an Australian Government RTP Scholarship.
 - *2023.12*: I graduated from the University of Sydney with a Bachelor of Advanced Computing (First Class Honours; WAM 95+)
@@ -104,9 +109,8 @@ via Prototype-driven Semantic Approximation](https://arxiv.org/abs/2507.11055)
 - *2026.01 - Present*, Machine Learning Engineer, [TikTok (ByteDance)](https://www.tiktok.com/), Sydney, Australia
   - 0->1 development of TikTok's first Audio-Visual-Language foundation model (AVLM) for video and live moderation: data pipeline, pre-training, post-training, and downstream supervised fine-tuning and alignment.
   - Deployed to production moderation systems, significantly reducing Community Guidelines Violation Rate (CGVR) and Creator Overkill Rate (COR) compared to existing ASR+VLM approach.
-- *2022.07 - 2022.12*, Research Assistant, [The University of Sydney](https://www.sydney.edu.au), Sydney, Australia
-  - Built the first facial recognition system for animals, demonstrating the potential to replace traditional and widely used tagging methods. [PDF](https://plf.tennessee.edu/wp-content/uploads/sites/229/2024/01/Identification-of-cattle-facial-features-via-deep-learning.pdf)
-  - Key areas: computer vision, object detection, convolutional neural networks, and facial recognition.
+- *2026.07 - Present*, Associate Lecturer, [The University of Sydney](https://www.sydney.edu.au), Sydney, Australia
+  - COMP5328: Advanced Machine Learning (This course introduces some fundamental machine learning concepts, learning problems and algorithms)
 
 # 📜 Reviewer Certificates
 - *2025*, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), [Certificate]({{ '/certificates/TPAMI%20reviewer%20certificate%202025.pdf' | relative_url }})
