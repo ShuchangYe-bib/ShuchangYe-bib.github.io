@@ -45,6 +45,16 @@ I worked as a machine learning engineer for TikTok, where I developed the first 
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/tiktokavlm.png' alt="tiktokavlm" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[From Failure Taxonomy to Intervention: A Diagnostic Methodology for Industry-Scale AVLM in Video and Live-Stream Platform Moderation](https://arxiv.org/abs/2606.30059)
+
+TikTok Research: **Shuchang Ye**, Jinqiang Yu, Zhujun Xiao, Yajing Kong, Yist Y. Lin, Yang Ma, Jiaxi Liu, Xiaolei Xu, Zheng Yu
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM</div><img src='images/dtrace.png' alt="dtrace" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
